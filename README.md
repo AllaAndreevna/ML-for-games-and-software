@@ -566,3 +566,8 @@ and in the dataset used a completely different vocabulary (game topics) and the 
 not formal or businesslike. The model 1️⃣ also performed poorly, although, unlike the model 4️⃣, it has no excuses, 
 because it was fed conversation data from Netflix movies and shows, which in terms of speech style is very suitable for the dataset used. 
 So we can also conclude that the number of downloads of the model can also illustrate its performance, and yes, model 1️⃣ has the smallest one.
+
+<h3>Well let's implement a model that turned out to be one of the best according to the study.</h3>
+
+This process is described in more detail
+[here](https://github.com/AllaAndreevna/ML-for-games-and-software/blob/main/implementation_twitter-roberta-base-sentiment-latest.py).
