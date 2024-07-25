@@ -218,14 +218,6 @@ High accuracy: The model has achieved high accuracy on a held-out dataset of 5,0
 Transformer architecture: 
 The model uses a transformer architecture, which is different from traditional recurrent neural networks (RNNs) like GRU and LSTM. Transformers are more parallelizable and can handle longer input sequences.
 
-Pre-training: The model is pre-trained on a large corpus of text data, which allows it to learn general language representations that can be fine-tuned for specific tasks.
-
-Multilingual support: The model's multilingual support sets it apart from traditional models, which are often limited to a single language.
-
-
-Handling long-range dependencies: 
-The model's transformer architecture allows it to capture long-range dependencies in text data, which can be challenging for traditional RNNs.
-
 <b>In summary,</b> the nlptown/bert-base-multilingual-uncased-sentiment model is a powerful tool for sentiment analysis on product reviews in multiple languages, offering high accuracy and efficiency compared to traditional models.
 
 ````python
@@ -327,8 +319,6 @@ Fine-tuning for specific tasks: The model can be fine-tuned for specific financi
 <b>Differences from Traditional Models:</b>
 
 Handling complex financial text: The model's ability to handle long-range dependencies and capture complex relationships in financial text data makes it more effective than traditional models.
-
-Contextualized embeddings: The model's use of contextualized embeddings allows it to capture the nuances of language, which is not possible with traditional word embeddings.
 
 Transformer architecture: The model's transformer architecture allows it to handle long-range dependencies and capture complex relationships in financial text data.
 
